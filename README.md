@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Zetta2021
 - 👀 I’m interested in ... leaning new skills and furthering 
 
-- 🌱 I’m currently learning ... Java, MySQL, and Bootstrap. 
-- 💞️ I’m looking to collaborate on ... no projects right now. 
+- 🌱 I’m currently learning ... HTML, CSS , and  JavaScript. 
+- 💞️ I’m looking to collaborate on ... no projects rigt now. 
+-    
 - 📫 How to reach me ... zetta.wilcher@aol.com
 
 <!---
